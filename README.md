@@ -1,9 +1,9 @@
-# Experiment-2
+# Experiment - 2
 Write a program in Python language for Matrix multiplication fails. Introspect the causes for its failure and write down the possible reasons for its failure. 
-## Aim
+## Aim :
 Write a python program for matrix multiplication and inspect for failures. 
 
-## Algorithm
+## Algorithm :
 1.	Start the program.
 2. Create empty list formatrix1, matrix2 and result.
 3. Get the rows and columns count from the user.
@@ -11,7 +11,7 @@ Write a python program for matrix multiplication and inspect for failures.
 5. Perform matrix multiplication and store the answer in result.
 6. Stop the program. 
 
-## Program
+## Program :
 ```
 
 r1, c1 = input("Enter row and column count for matrix 1: ").split()
@@ -66,7 +66,7 @@ else:
 ```
 
 
-## Output
+## Output :
 ![Screenshot 2025-03-22 105749](https://github.com/user-attachments/assets/1fe0de44-cceb-4c0d-b43b-87f5b5b78cae)
 
 ![Screenshot 2025-03-22 110028](https://github.com/user-attachments/assets/0415d9b7-d471-4e67-85bb-12529df86922)
@@ -80,6 +80,6 @@ else:
 
 
 
-## Result
+## Result :
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is 
 introspected successfully. 
